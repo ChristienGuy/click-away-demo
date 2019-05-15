@@ -1292,7 +1292,7 @@
   dependencies:
     "@types/react" "*"
 
-"@types/react@*", "@types/react@16.8.17", "@types/react@^16.8.17":
+"@types/react@*", "@types/react@16.8.17":
   version "16.8.17"
   resolved "https://registry.yarnpkg.com/@types/react/-/react-16.8.17.tgz#f287b76a5badb93bc9aa3f54521a3eb53d6c2374"
   integrity sha512-pln3mgc6VfkNg92WXODul/ONo140huK9OMsx62GlBlZ2lvjNK86PQJhYMPLO1i66aF5O9OPyZefogvNltBIszA==
@@ -7857,12 +7857,10 @@ react-app-polyfill@^1.0.1:
     regenerator-runtime "0.13.2"
     whatwg-fetch "3.0.0"
 
-react-click-away@../react-click-away:
+react-click-away-hook@^1.0.0:
   version "1.0.0"
-  dependencies:
-    "@types/react" "^16.8.17"
-    react "^16.8.6"
-    react-dom "^16.8.6"
+  resolved "https://registry.yarnpkg.com/react-click-away-hook/-/react-click-away-hook-1.0.0.tgz#2138514ae1a15bd79219cc5f8b177402a3e76ef7"
+  integrity sha512-nFEc5gCU3Ksr3I8x+KCSMpXlEV5LqyM0CJ4S9J6ifHXGn/EMpFPcvOHCvreqKGwywOtXM/vNLz+YZZdh5p4hEg==
 
 react-dev-utils@^9.0.1:
   version "9.0.1"

@@ -1,10 +1,10 @@
 import React, { useState } from "react";
-import useClickAway from "react-click-away";
+import useClickAway from "react-click-away-hook";
 import "./App.css";
 
 const App: React.FC = () => {
   const [menuOpen, setMenuOpen] = useState(true);
-  const [ref] = useClickAway(() => {
+  const ref = useClickAway(() => {
     setMenuOpen(false);
   });
 
