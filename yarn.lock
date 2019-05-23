@@ -7857,10 +7857,10 @@ react-app-polyfill@^1.0.1:
     regenerator-runtime "0.13.2"
     whatwg-fetch "3.0.0"
 
-react-click-away-hook@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/react-click-away-hook/-/react-click-away-hook-1.0.0.tgz#2138514ae1a15bd79219cc5f8b177402a3e76ef7"
-  integrity sha512-nFEc5gCU3Ksr3I8x+KCSMpXlEV5LqyM0CJ4S9J6ifHXGn/EMpFPcvOHCvreqKGwywOtXM/vNLz+YZZdh5p4hEg==
+react-click-away-hook@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/react-click-away-hook/-/react-click-away-hook-1.0.2.tgz#6f045938b5a5771ea1f6acc1d82dac4e5afadc68"
+  integrity sha512-U1Qiqj+uAEojj2J8wLt6RmdoSSCFfBBLoW1IAd3HWUDkDnzCcQx24Wm9x8y+D8PjmXJj+NKwNiMxnyuGg+dHrg==
 
 react-dev-utils@^9.0.1:
   version "9.0.1"
